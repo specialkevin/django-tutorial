@@ -6,7 +6,7 @@ from polls.models import Poll
 # from django.contrib import admin
 # admin.autodiscover()
 
-urlpatterns = patterns('polls.views',
+urlpatterns = patterns('',
     # Examples:
     # url(r'^$', 'tutorial.views.home', name='home'),
     # url(r'^tutorial/', include('tutorial.foo.urls')),
